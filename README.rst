@@ -1,5 +1,5 @@
-pico_synth_sandbox Hardware
-===========================
+PicoSynth Sandbox
+=================
 
 .. image:: https://img.shields.io/badge/License-GPLv3-blue.svg
     :target: https://www.gnu.org/licenses/gpl-3.0
@@ -34,15 +34,15 @@ Features
 Software
 --------
 
-CircuitPython Library
+CircuitPython Firmware
 ~~~~~~~~~~~~~~~~~~~~~
 
-The pico_synth_sandbox is designed for use with CircuitPython and synthio. A specialized library with hardware abstraction and a multitude of additional features for embedded audio synthesis is available in the `pico_synth_sandbox <https://github.com/dcooperdalrymple/pico_synth_sandbox>`_ repository. Library documentation and other resources are available on `Read the Docs <https://pico-synth-sandbox.readthedocs.io/>`_.
+The PicoSynth Sandbox is designed for use with CircuitPython and synthio. Dedicated firmware is available in the `PicoSynth_Sandbox <https://github.com/dcooperdalrymple/PicoSynth_Sandbox>`_ repository. Guides, library documentation and other resources are available on the `PicoSynth Sandbox website <https://pico-synth-sandbox.dcdalrymple.com/>`_.
 
 CircuitPython Tests
 ~~~~~~~~~~~~~~~~~~~
 
-A number of hardware tests are available within the ``./tests`` directory to validate the ``pico_synth_sandbox`` hardware using the REPL serial terminal.
+A number of hardware tests are available within the ``./tests`` directory to validate the ``PicoSynth Sandbox`` hardware using the REPL serial terminal.
 
 RP2040 Pin Assignment
 ---------------------
