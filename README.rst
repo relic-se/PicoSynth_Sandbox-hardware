@@ -1,4 +1,4 @@
-pico_synth_sandbox Hardware
+PicoSynth_Sandbox Hardware
 ===========================
 
 .. image:: https://img.shields.io/badge/License-GPLv3-blue.svg
@@ -37,12 +37,12 @@ Software
 CircuitPython Library
 ~~~~~~~~~~~~~~~~~~~~~
 
-The pico_synth_sandbox is designed for use with CircuitPython and synthio. A specialized library with hardware abstraction and a multitude of additional features for embedded audio synthesis is available in the `pico_synth_sandbox <https://github.com/dcooperdalrymple/pico_synth_sandbox>`_ repository. Library documentation and other resources are available on `Read the Docs <https://pico-synth-sandbox.readthedocs.io/>`_.
+The PicoSynth_Sandbox is designed for use with CircuitPython and synthio. A specialized library with hardware abstraction and a multitude of additional features for embedded audio synthesis is available in the `PicoSynth_Sandbox <https://github.com/dcooperdalrymple/PicoSynth_Sandbox>`_ repository. Library documentation and other resources are available on `Read the Docs <https://pico-synth-sandbox.readthedocs.io/>`_.
 
 CircuitPython Tests
 ~~~~~~~~~~~~~~~~~~~
 
-A number of hardware tests are available within the ``./tests`` directory to validate the ``pico_synth_sandbox`` hardware using the REPL serial terminal.
+A number of hardware tests are available within the ``./tests`` directory to validate the ``PicoSynth_Sandbox`` hardware using the REPL serial terminal.
 
 RP2040 Pin Assignment
 ---------------------
@@ -166,7 +166,7 @@ Schematic
 ---------
 
 .. image:: _static/schematic.jpg
-   :alt: Hardware schematic of pico_synth_sandbox device
+   :alt: Hardware schematic of PicoSynth_Sandbox device
    :target: _static/schematic.pdf
 
 Attribution

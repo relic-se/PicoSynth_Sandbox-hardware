@@ -5,7 +5,7 @@
 	(uuid "2a415367-ae13-406c-9a1e-0db2990f9c01")
 	(paper "A")
 	(title_block
-		(title "pico_synth_sandbox - Touch Keyboard")
+		(title "PicoSynth_Sandbox - Touch Keyboard")
 		(date "2024-09-08")
 		(rev "3")
 		(comment 3 "pico-synth-sandbox.dcdalrymple.com")
@@ -6233,7 +6233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteMiddle"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteMiddle"
 			(at 102.87 34.29 0)
 			(effects
 				(font
@@ -6264,7 +6264,7 @@
 			(uuid "42be8366-bec7-4a1e-b3c7-098606824da3")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP20")
 					(unit 1)
@@ -6329,7 +6329,7 @@
 			(uuid "8a6edc92-ba13-4406-b6a4-8a3dc7490910")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP5")
 					(unit 1)
@@ -6394,7 +6394,7 @@
 			(uuid "9c5cfef3-af5e-4d1c-bbed-2dc524b88c0d")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP29")
 					(unit 1)
@@ -6462,7 +6462,7 @@
 			(uuid "65bf6dcc-f4a8-418a-b0f9-658d1fb4a9ce")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R71")
 					(unit 1)
@@ -6497,7 +6497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysBlack"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysBlack"
 			(at 110.49 25.4 0)
 			(effects
 				(font
@@ -6528,7 +6528,7 @@
 			(uuid "7e0850ef-ad0b-4b89-9dcd-e5713112f920")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP21")
 					(unit 1)
@@ -6563,7 +6563,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteLeft"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteLeft"
 			(at 125.73 34.29 0)
 			(effects
 				(font
@@ -6594,7 +6594,7 @@
 			(uuid "163d589a-c61e-4213-a169-bb3bd17090d2")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP23")
 					(unit 1)
@@ -6662,7 +6662,7 @@
 			(uuid "b879624f-4ac7-496d-814a-d35ffd1c161d")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R48")
 					(unit 1)
@@ -6697,7 +6697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysBlack"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysBlack"
 			(at 95.25 25.4 0)
 			(effects
 				(font
@@ -6728,7 +6728,7 @@
 			(uuid "a22c26ff-eda5-4939-9110-c484321cd84c")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP19")
 					(unit 1)
@@ -6793,7 +6793,7 @@
 			(uuid "77d7043b-d0c1-478a-ba89-47bcab8f4c42")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR099")
 					(unit 1)
@@ -6861,7 +6861,7 @@
 			(uuid "91dd95cc-d8c2-4c14-bc9c-e28f11f2a5bf")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R75")
 					(unit 1)
@@ -6927,7 +6927,7 @@
 			(uuid "6c0a3fcf-c520-41e2-b3c1-caa64e82492f")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR097")
 					(unit 1)
@@ -6962,7 +6962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteLeft"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteLeft"
 			(at 72.39 34.29 0)
 			(effects
 				(font
@@ -6993,7 +6993,7 @@
 			(uuid "cfae1575-92dd-44d0-b427-84afb5b0f23f")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP16")
 					(unit 1)
@@ -7028,7 +7028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteRight"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteRight"
 			(at 201.93 34.29 0)
 			(effects
 				(font
@@ -7059,7 +7059,7 @@
 			(uuid "7614b387-8af0-4efe-a6fa-3803a0c1b7e1")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP33")
 					(unit 1)
@@ -7127,7 +7127,7 @@
 			(uuid "4bc215db-b7ba-4fe7-9129-fe0408b12cdf")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R15")
 					(unit 1)
@@ -7162,7 +7162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteRight"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteRight"
 			(at 186.69 34.29 0)
 			(effects
 				(font
@@ -7193,7 +7193,7 @@
 			(uuid "d9970433-e264-4015-9947-5f636ce48e2d")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP31")
 					(unit 1)
@@ -7261,7 +7261,7 @@
 			(uuid "5509f162-6652-41aa-83df-c359ec59e1ad")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R26")
 					(unit 1)
@@ -7329,7 +7329,7 @@
 			(uuid "2f41f807-0a5c-4841-bab4-eb24b6a479a3")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R68")
 					(unit 1)
@@ -7406,7 +7406,7 @@
 			(uuid "44def17a-4e17-407c-a353-625b8f33d26c")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "SW2")
 					(unit 1)
@@ -7441,7 +7441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysBlack"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysBlack"
 			(at 41.91 25.4 0)
 			(effects
 				(font
@@ -7472,7 +7472,7 @@
 			(uuid "09b866b2-0924-4775-9f8c-df86da4a8f7c")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP12")
 					(unit 1)
@@ -7540,7 +7540,7 @@
 			(uuid "ecac88b2-ba8f-460d-b60f-14753b0ad78c")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R12")
 					(unit 1)
@@ -7609,7 +7609,7 @@
 			(uuid "56c879db-9878-4619-ba21-51049171f122")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "C62")
 					(unit 1)
@@ -7674,7 +7674,7 @@
 			(uuid "8e906ca0-24ee-4757-82ac-f7bde18bf5dd")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR0100")
 					(unit 1)
@@ -7798,7 +7798,7 @@
 			(uuid "3ef071bf-7cad-442d-92a9-7a3b6c668771")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "U9")
 					(unit 1)
@@ -7833,7 +7833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysBlack"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysBlack"
 			(at 163.83 25.4 0)
 			(effects
 				(font
@@ -7864,7 +7864,7 @@
 			(uuid "5a8d6c90-71a8-42b5-84c7-4e95260141dc")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP9")
 					(unit 1)
@@ -7932,7 +7932,7 @@
 			(uuid "d458546a-5739-4f86-b9ab-f0b82443b69c")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R27")
 					(unit 1)
@@ -7999,7 +7999,7 @@
 			(uuid "f1c4937d-4fe2-4895-98dd-2fdc0404a45d")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R65")
 					(unit 1)
@@ -8067,7 +8067,7 @@
 			(uuid "435486cf-7ac3-497b-a166-09f8d90d8b64")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R7")
 					(unit 1)
@@ -8132,7 +8132,7 @@
 			(uuid "0f4f67bb-3255-4fe4-9f26-32a0d8f44e06")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP27")
 					(unit 1)
@@ -8199,7 +8199,7 @@
 			(uuid "2e61a9fb-9881-434f-8d23-121161aeab7d")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R52")
 					(unit 1)
@@ -8234,7 +8234,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysBlack"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysBlack"
 			(at 57.15 25.4 0)
 			(effects
 				(font
@@ -8265,7 +8265,7 @@
 			(uuid "3d507cc5-cfb8-4611-9fd5-b48f4297b6bb")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP14")
 					(unit 1)
@@ -8333,7 +8333,7 @@
 			(uuid "228c9c5d-14c1-47ff-afad-dc8980858e5a")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R28")
 					(unit 1)
@@ -8368,7 +8368,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysBlack"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysBlack"
 			(at 179.07 25.4 0)
 			(effects
 				(font
@@ -8399,7 +8399,7 @@
 			(uuid "70716992-9fe0-4167-b8ef-2b7a5880d1ca")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP30")
 					(unit 1)
@@ -8464,7 +8464,7 @@
 			(uuid "33288f20-b58a-4127-a0e1-4f74f50610e9")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP28")
 					(unit 1)
@@ -8534,7 +8534,7 @@
 			(uuid "919c0f91-4d99-4631-beb2-d68f8c3f84c2")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "C61")
 					(unit 1)
@@ -8599,7 +8599,7 @@
 			(uuid "0d35d308-1f9f-4105-891f-14097ce67c02")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR094")
 					(unit 1)
@@ -8634,7 +8634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteLeft"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteLeft"
 			(at 34.29 34.29 0)
 			(effects
 				(font
@@ -8665,7 +8665,7 @@
 			(uuid "862b6b62-e2f3-46fe-9521-94870103c9d3")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP11")
 					(unit 1)
@@ -8733,7 +8733,7 @@
 			(uuid "3565749c-95e0-486f-96c0-39ff3ff01226")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R8")
 					(unit 1)
@@ -8768,7 +8768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysBlack"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysBlack"
 			(at 194.31 25.4 0)
 			(effects
 				(font
@@ -8799,7 +8799,7 @@
 			(uuid "2031cc07-4647-40bb-a863-aedc86987250")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP32")
 					(unit 1)
@@ -8868,7 +8868,7 @@
 			(uuid "1bf3bd8c-96ee-43e2-a6fa-f7d479524556")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "C64")
 					(unit 1)
@@ -8934,7 +8934,7 @@
 			(uuid "58635e65-b047-4290-846c-d0b5cffe6cbf")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR031")
 					(unit 1)
@@ -9002,7 +9002,7 @@
 			(uuid "5d560e7e-73d5-4701-876c-bf8460d91935")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R55")
 					(unit 1)
@@ -9069,7 +9069,7 @@
 			(uuid "563a4007-6ba9-435d-a167-3bf857e4c41b")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R66")
 					(unit 1)
@@ -9137,7 +9137,7 @@
 			(uuid "4492005e-5ba4-4f56-822d-d4814b9bebe1")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R56")
 					(unit 1)
@@ -9172,7 +9172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteMiddle"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteMiddle"
 			(at 49.53 34.29 0)
 			(effects
 				(font
@@ -9203,7 +9203,7 @@
 			(uuid "7c88bc05-1bcf-48ba-88ee-5a8472a1243e")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP13")
 					(unit 1)
@@ -9271,7 +9271,7 @@
 			(uuid "abcb966e-fe7f-4e5d-ad51-590b4c6f8ae1")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R57")
 					(unit 1)
@@ -9339,7 +9339,7 @@
 			(uuid "0319abd5-c50f-43b0-a914-44bedc8adc1d")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R53")
 					(unit 1)
@@ -9409,7 +9409,7 @@
 			(uuid "9549d726-555e-486c-9d60-50854f152d08")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "C65")
 					(unit 1)
@@ -9477,7 +9477,7 @@
 			(uuid "538c5832-8f3c-49eb-a7d5-700fa897a9a3")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R11")
 					(unit 1)
@@ -9512,7 +9512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhite"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhite"
 			(at 26.67 34.29 0)
 			(effects
 				(font
@@ -9543,7 +9543,7 @@
 			(uuid "1119935e-54f7-4f0f-835d-3b705ec7fd61")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP10")
 					(unit 1)
@@ -9609,7 +9609,7 @@
 			(uuid "f3f544fa-ab03-461a-bae1-e229f778b2d1")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR012")
 					(unit 1)
@@ -9677,7 +9677,7 @@
 			(uuid "a09a3d3d-6ee6-4309-936e-6b6ec7912124")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R29")
 					(unit 1)
@@ -9743,7 +9743,7 @@
 			(uuid "e95f8091-644a-4953-8db1-0de16b64a209")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR0103")
 					(unit 1)
@@ -9808,7 +9808,7 @@
 			(uuid "348c4efc-014a-4b45-a03b-72928ca781ed")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR096")
 					(unit 1)
@@ -9885,7 +9885,7 @@
 			(uuid "fc1a1c5e-8626-471a-8d32-5fb17290c632")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "SW1")
 					(unit 1)
@@ -9953,7 +9953,7 @@
 			(uuid "ea355e10-f0e7-4258-9adc-a5da9401e438")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R19")
 					(unit 1)
@@ -10021,7 +10021,7 @@
 			(uuid "25d6f33d-d1aa-4049-89d3-c75aa15f880b")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R13")
 					(unit 1)
@@ -10089,7 +10089,7 @@
 			(uuid "9998adb4-641f-497d-89aa-f73982925616")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R73")
 					(unit 1)
@@ -10157,7 +10157,7 @@
 			(uuid "6a84c6da-3fb6-483b-a286-9376c2f67df6")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R51")
 					(unit 1)
@@ -10222,7 +10222,7 @@
 			(uuid "b360bc56-4ed9-4d1c-ac93-88edffcf150d")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR0107")
 					(unit 1)
@@ -10257,7 +10257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteMiddle"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteMiddle"
 			(at 87.63 34.29 0)
 			(effects
 				(font
@@ -10288,7 +10288,7 @@
 			(uuid "dd4a1075-dfb5-4a1d-9379-62b976aabbfc")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP18")
 					(unit 1)
@@ -10353,7 +10353,7 @@
 			(uuid "daab814e-bf09-4fc7-96c4-002a82fb3ec4")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR0102")
 					(unit 1)
@@ -10421,7 +10421,7 @@
 			(uuid "0e4db572-e73c-4382-b2bb-4d7f00459107")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R70")
 					(unit 1)
@@ -10487,7 +10487,7 @@
 			(uuid "bfa8b474-ef18-4252-bccd-99fdc363e916")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR095")
 					(unit 1)
@@ -10552,7 +10552,7 @@
 			(uuid "2d2a1fa6-3a86-4120-9b49-fe623ce44beb")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR093")
 					(unit 1)
@@ -10619,7 +10619,7 @@
 			(uuid "a5ff4b7d-2cdd-4562-9861-90051a2df51d")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR049")
 					(unit 1)
@@ -10654,7 +10654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteRight"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteRight"
 			(at 140.97 34.29 0)
 			(effects
 				(font
@@ -10685,7 +10685,7 @@
 			(uuid "d5c01722-37fb-4477-9e8f-992aece917e4")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP25")
 					(unit 1)
@@ -10751,7 +10751,7 @@
 			(uuid "e948a3b2-63c2-4a8a-a0b6-95a368f0609e")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR0101")
 					(unit 1)
@@ -10819,7 +10819,7 @@
 			(uuid "2c5939d7-9f93-4123-b08d-797dff32e62a")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R14")
 					(unit 1)
@@ -10887,7 +10887,7 @@
 			(uuid "50beb152-1332-4b33-a4c4-fd764946a339")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R6")
 					(unit 1)
@@ -10955,7 +10955,7 @@
 			(uuid "22be1dca-ee2e-49ba-8f16-94abfa2f42a8")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R50")
 					(unit 1)
@@ -11022,7 +11022,7 @@
 			(uuid "b6a53f63-495b-419f-9a0a-ca754357922c")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R54")
 					(unit 1)
@@ -11057,7 +11057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysBlack"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysBlack"
 			(at 80.01 25.4 0)
 			(effects
 				(font
@@ -11088,7 +11088,7 @@
 			(uuid "f570268b-6bdf-4bb1-a32e-3ac11409274a")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP17")
 					(unit 1)
@@ -11123,7 +11123,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteRight"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteRight"
 			(at 64.77 34.29 0)
 			(effects
 				(font
@@ -11154,7 +11154,7 @@
 			(uuid "0facd4e4-b25c-4bf6-8ca5-6f1a8fc8b5cf")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP15")
 					(unit 1)
@@ -11278,7 +11278,7 @@
 			(uuid "8c2ad96e-5108-4122-a430-b77ed92e68dd")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "U11")
 					(unit 1)
@@ -11346,7 +11346,7 @@
 			(uuid "3f5db93d-b3d4-4fab-ba60-dba17d4c41ba")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R49")
 					(unit 1)
@@ -11414,7 +11414,7 @@
 			(uuid "ced5fb3e-d292-4102-93a9-62b4e11a14e4")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R72")
 					(unit 1)
@@ -11480,7 +11480,7 @@
 			(uuid "4f5133e4-8f87-4402-ab15-14b67b340d11")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR091")
 					(unit 1)
@@ -11550,7 +11550,7 @@
 			(uuid "43c51aa2-2740-4033-9939-9f4f3ff8ca4d")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "C63")
 					(unit 1)
@@ -11585,7 +11585,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteRight"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteRight"
 			(at 156.21 34.29 0)
 			(effects
 				(font
@@ -11616,7 +11616,7 @@
 			(uuid "cae981c8-1b52-4a89-b397-2cd95d165a63")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP8")
 					(unit 1)
@@ -11682,7 +11682,7 @@
 			(uuid "f1b87d60-9669-49a8-9322-6638b6713989")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR0104")
 					(unit 1)
@@ -11747,7 +11747,7 @@
 			(uuid "bdf06163-4cdc-46ef-b32b-ff04f16a85fa")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP4")
 					(unit 1)
@@ -11782,7 +11782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysBlack"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysBlack"
 			(at 148.59 25.4 0)
 			(effects
 				(font
@@ -11813,7 +11813,7 @@
 			(uuid "e2d37be7-a984-44dc-9044-1b326127c120")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP7")
 					(unit 1)
@@ -11879,7 +11879,7 @@
 			(uuid "e1b57eb1-8f40-45f6-84b5-ae60a1a1d6f2")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR0108")
 					(unit 1)
@@ -12003,7 +12003,7 @@
 			(uuid "322a8d12-0350-44df-be81-ee087def838e")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "U10")
 					(unit 1)
@@ -12071,7 +12071,7 @@
 			(uuid "1ace170c-f8a0-4f79-bd83-fb388eb0bd8a")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R69")
 					(unit 1)
@@ -12136,7 +12136,7 @@
 			(uuid "654f42cd-b8fe-448e-81ae-3d757856a304")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR0109")
 					(unit 1)
@@ -12204,7 +12204,7 @@
 			(uuid "06af37cd-2c62-4469-aff6-2b1051a5d6b5")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R9")
 					(unit 1)
@@ -12272,7 +12272,7 @@
 			(uuid "2c3b9fcd-17b4-41da-8ae2-057f327cba23")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R67")
 					(unit 1)
@@ -12338,7 +12338,7 @@
 			(uuid "a2936fb4-8928-488a-9d84-5fd2d8583bdc")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR013")
 					(unit 1)
@@ -12404,7 +12404,7 @@
 			(uuid "d74890ce-8df5-4922-b78f-35254fd62d3e")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR019")
 					(unit 1)
@@ -12470,7 +12470,7 @@
 			(uuid "059caa88-de30-48f0-8c14-c6fe14a5db46")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR018")
 					(unit 1)
@@ -12535,7 +12535,7 @@
 			(uuid "28d8163a-c4cf-44be-aaef-f67d13e334df")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP6")
 					(unit 1)
@@ -12570,7 +12570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysBlack"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysBlack"
 			(at 133.35 25.4 0)
 			(effects
 				(font
@@ -12601,7 +12601,7 @@
 			(uuid "4ea221d5-6638-4e96-8786-71f14485c5bd")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP24")
 					(unit 1)
@@ -12636,7 +12636,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteRight"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteRight"
 			(at 171.45 34.29 0)
 			(effects
 				(font
@@ -12667,7 +12667,7 @@
 			(uuid "0de7d095-3bac-4f90-8039-1a193c59e4f5")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP26")
 					(unit 1)
@@ -12732,7 +12732,7 @@
 			(uuid "9f644adf-7991-4f0a-86a0-58ea60ed3ced")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR0106")
 					(unit 1)
@@ -12797,7 +12797,7 @@
 			(uuid "17df9be9-b517-487c-8f14-8a0be3cfab50")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR098")
 					(unit 1)
@@ -12864,7 +12864,7 @@
 			(uuid "5ed722f1-8001-48c4-9a63-ad74a0506a7c")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R77")
 					(unit 1)
@@ -12929,7 +12929,7 @@
 			(uuid "8f9f3a84-84d1-4217-85cd-9331c057d10c")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR0105")
 					(unit 1)
@@ -12997,7 +12997,7 @@
 			(uuid "1a37280a-c83b-44d6-ab16-2bf102766f40")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R74")
 					(unit 1)
@@ -13066,7 +13066,7 @@
 			(uuid "873940f1-4a58-43cf-8fa2-8e63fd3e2921")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "C60")
 					(unit 1)
@@ -13134,7 +13134,7 @@
 			(uuid "7e40a410-2b58-4217-9c77-fb86d9ada104")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R10")
 					(unit 1)
@@ -13199,7 +13199,7 @@
 			(uuid "334382a6-4629-49eb-9092-5388253c6220")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "#PWR092")
 					(unit 1)
@@ -13267,7 +13267,7 @@
 			(uuid "33160f14-06fb-4fe7-8bdc-c0956eda36b5")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R18")
 					(unit 1)
@@ -13334,7 +13334,7 @@
 			(uuid "af2c7a0c-e350-4b56-86d7-c4ff3c8f05ad")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "R76")
 					(unit 1)
@@ -13369,7 +13369,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pico_synth_sandbox:CapKeysWhiteRight"
+		(property "Footprint" "PicoSynth_Sandbox:CapKeysWhiteRight"
 			(at 118.11 34.29 0)
 			(effects
 				(font
@@ -13400,7 +13400,7 @@
 			(uuid "c4eefe72-e891-434d-abb3-74e4db35b8a5")
 		)
 		(instances
-			(project "pico_synth_sandbox"
+			(project "PicoSynth_Sandbox"
 				(path "/bfc01388-33ce-4b1a-9d2f-82d750172e5a/c37b2c46-91dc-4067-923d-eccca1cbe357"
 					(reference "TP22")
 					(unit 1)

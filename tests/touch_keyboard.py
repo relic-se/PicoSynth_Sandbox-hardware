@@ -1,4 +1,4 @@
-# pico_synth_sandbox/touch-keyboard.py
+# PicoSynth_Sandbox/touch-keyboard.py
 # 2023 Cooper Dalrymple - me@dcdalrymple.com
 # GPL v3 License
 
