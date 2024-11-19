@@ -600,28 +600,12 @@
       "Root"
     ],
     [
-      "f0d7f11b-6ebd-4c2b-8e52-e814f3b2f284",
-      "I2S DAC"
-    ],
-    [
-      "93632245-6c20-4ae6-b62e-7dbbebc316d1",
-      "I2S ADC"
-    ],
-    [
       "95658688-f49d-4f25-a927-5c37230192e0",
-      "Audio Output"
-    ],
-    [
-      "9c12b2ee-f811-4183-acdf-4598ef52f2ef",
-      "Battery"
+      "Codec"
     ],
     [
       "c37b2c46-91dc-4067-923d-eccca1cbe357",
-      "Touch Keyboard"
-    ],
-    [
-      "d4704e72-f661-4b84-847a-157c0240dc16",
-      "MIDI"
+      "Touch"
     ]
   ],
   "text_variables": {}

@@ -2,10 +2,10 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "1440c154-ccf2-4c03-8246-5e5d638fff69")
+	(uuid "3ce3e180-730f-4841-9951-c95bd9d521a5")
 	(paper "A")
 	(title_block
-		(title "pico_synth_sandbox - MIDI Input & Output")
+		(title "pico_synth_sandbox - LiPo Battery Power & Charging")
 		(date "2024-09-08")
 		(rev "3")
 		(comment 3 "pico-synth-sandbox.dcdalrymple.com")
